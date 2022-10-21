@@ -8,6 +8,7 @@ https://uniandes-my.sharepoint.com/:v:/g/personal/js_pinzonr_uniandes_edu_co/EXR
 https://github.com/G12-NeuralLesses-BusinessIntelligence/Project1_Phase1/blob/main/Resultados%20y%20estrategias%20de%20Negocio.pdf
 
 ### Enlace al documento 
+https://github.com/G12-NeuralLesses-BusinessIntelligence/Project1_Phase1/blob/main/Informe%20Proyecto%201.pdf
 
 
 ### Integrantes: 
